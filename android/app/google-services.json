@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "466401795160",
+    "firebase_url": "https://carefinder-7d719.firebaseio.com",
+    "project_id": "carefinder-7d719",
+    "storage_bucket": "carefinder-7d719.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466401795160:android:8859313e547c6614033e2d",
+        "android_client_info": {
+          "package_name": "com.zuumph"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466401795160-jdba6n58ra4iq5kq5f9dkbua844gigic.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.zuumph",
+            "certificate_hash": "cc63740c45e4b4b4de66ba32a21e530e3bdccd09"
+          }
+        },
+        {
+          "client_id": "466401795160-r2o3fkfu1pgqjinn4ki50gff5qjc30n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmFgtGEn_4SZGY0QvxFT1qssuekdcC7zQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466401795160-r2o3fkfu1pgqjinn4ki50gff5qjc30n8.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "466401795160-810rbaj41iatclov2f6rf61apn353umo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.datalogicinc.carefinder"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

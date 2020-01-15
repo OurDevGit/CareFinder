@@ -1,0 +1,58 @@
+{
+  "name": "zuumph",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "start": "react-native start",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts"
+    ]
+  },
+  "dependencies": {
+    "@eva-design/eva": "^1.2.0",
+    "@react-native-community/async-storage": "^1.6.3",
+    "@react-native-community/geolocation": "^2.0.2",
+    "@react-native-community/google-signin": "3.0.0",
+    "@twotalltotems/react-native-otp-input": "^1.1.2",
+    "@ui-kitten/eva-icons": "^4.2.0",
+    "axios": "^0.19.0",
+    "qs": "^6.9.1",
+    "react": "16.9.0",
+    "react-native": "0.61.4",
+    "react-native-collapsible": "^1.5.1",
+    "react-native-gesture-handler": "^1.5.0",
+    "react-native-google-places": "^3.1.2",
+    "react-native-google-places-autocomplete": "^1.4.0",
+    "react-native-image-crop-picker": "^0.26.1",
+    "react-native-maps": "0.26.1",
+    "react-native-phone-input": "^0.2.4",
+    "react-native-reanimated": "^1.4.0",
+    "react-native-screens": "^1.0.0-alpha.23",
+    "react-native-splash-screen": "^3.2.0",
+    "react-native-svg": "^9.13.3",
+    "react-native-ui-kitten": "^4.2.0",
+    "react-native-vector-icons": "^6.6.0",
+    "react-navigation": "^4.0.10",
+    "react-navigation-drawer": "^2.3.3",
+    "react-navigation-stack": "^1.10.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.2",
+    "@babel/runtime": "^7.6.2",
+    "@react-native-community/eslint-config": "^0.0.5",
+    "babel-jest": "^24.9.0",
+    "eslint": "^6.5.1",
+    "jest": "^24.9.0",
+    "metro-react-native-babel-preset": "^0.56.0",
+    "react-test-renderer": "16.9.0"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

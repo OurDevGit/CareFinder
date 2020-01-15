@@ -1,0 +1,134 @@
+[ 
+  {
+    "name": "United Arab Emirates (‫الإمارات العربية المتحدة‬‎)",
+    "iso2": "ae",
+    "dialCode": "971",
+    "priority": 0,
+    "areaCodes": null
+  }, 
+  {
+    "name": "Australia",
+    "iso2": "au",
+    "dialCode": "61",
+    "priority": 0,
+    "areaCodes": null
+  },
+  {
+    "name": "Brazil (Brasil)",
+    "iso2": "br",
+    "dialCode": "55",
+    "priority": 0,
+    "areaCodes": null
+  },
+  {
+    "name": "Canada",
+    "iso2": "ca",
+    "dialCode": "1",
+    "priority": 1
+  },
+  {
+    "name": "China (中国)",
+    "iso2": "cn",
+    "dialCode": "86",
+    "priority": 0,
+    "areaCodes": null
+  },
+  {
+    "name": "Egypt (‫مصر‬‎)",
+    "iso2": "eg",
+    "dialCode": "20",
+    "priority": 0,
+    "areaCodes": null
+  },
+  {
+    "name": "France",
+    "iso2": "fr",
+    "dialCode": "33",
+    "priority": 0,
+    "areaCodes": null
+  },
+  {
+    "name": "Germany (Deutschland)",
+    "iso2": "de",
+    "dialCode": "49",
+    "priority": 0,
+    "areaCodes": null
+  },
+  {
+    "name": "Hong Kong (香港)",
+    "iso2": "hk",
+    "dialCode": "852",
+    "priority": 0,
+    "areaCodes": null
+  },
+  {
+    "name": "India (भारत)",
+    "iso2": "in",
+    "dialCode": "91",
+    "priority": 0,
+    "areaCodes": null
+  },
+  {
+    "name": "Iran (‫ایران‬‎)",
+    "iso2": "ir",
+    "dialCode": "98",
+    "priority": 0,
+    "areaCodes": null
+  },
+  {
+    "name": "Iraq (‫العراق‬‎)",
+    "iso2": "iq",
+    "dialCode": "964",
+    "priority": 0,
+    "areaCodes": null
+  },
+  {
+    "name": "Italy (Italia)",
+    "iso2": "it",
+    "dialCode": "39",
+    "priority": 0,
+    "areaCodes": null
+  },
+  {
+    "name": "Japan (日本)",
+    "iso2": "jp",
+    "dialCode": "81",
+    "priority": 0,
+    "areaCodes": null
+  },
+  {
+    "name": "New Zealand",
+    "iso2": "nz",
+    "dialCode": "64",
+    "priority": 0,
+    "areaCodes": null
+  },
+  {
+    "name": "Russia (Россия)",
+    "iso2": "ru",
+    "dialCode": "7",
+    "priority": 0,
+    "areaCodes": null
+  },
+  {
+    "name": "Saudi Arabia (‫المملكة العربية السعودية‬‎)",
+    "iso2": "sa",
+    "dialCode": "966",
+    "priority": 0,
+    "areaCodes": null
+  }, 
+  {
+    "name": "United Kingdom",
+    "iso2": "gb",
+    "dialCode": "44",
+    "priority": 0,
+    "areaCodes": null
+  },
+    {
+    "name": "United States",
+    "iso2": "us",
+    "dialCode": "1",
+    "priority": 0,
+    "areaCodes": null
+  }
+]
