@@ -4,6 +4,7 @@
         <domain includeSubdomains="true">localhost</domain>
         <domain includeSubdomains="true">3.217.104.3</domain>
         <domain includeSubdomains="true">54.162.236.247</domain>
+	<domain includeSubdomains="true">carefinder.demo.nattysuite.com</domain>
         <domain includeSubdomains="true">51.81.240.252</domain>
         <domain includeSubdomains="true">ipapi.co</domain>
         <domain includeSubdomains="true">https://ipapi.co</domain>

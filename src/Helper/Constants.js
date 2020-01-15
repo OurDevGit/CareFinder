@@ -20,7 +20,8 @@ export const TWILIO_PHONE_NUMBER = '+12052933209'
 
 // Server Call
 export const host = 'http://51.81.240.252/index.php?'
-export const hostClient = 'http://54.162.236.247/wp-json/cf/v1/'
+export const hostClient = 'http://carefinder.demo.nattysuite.com/wp-json/cf/v1/'
+// export const hostClient = 'http://54.162.236.247/wp-json/cf/v1/'
 
 export const Menu = <Entypo name='menu' size={28} color='#FFF' />
 export const locationpin = <Entypo name='location-pin' size={24} color='#385194' />
