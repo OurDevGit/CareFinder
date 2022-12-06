@@ -22,7 +22,7 @@
     "@twotalltotems/react-native-otp-input": "^1.1.2",
     "@ui-kitten/eva-icons": "^4.2.0",
     "axios": "^0.19.0",
-    "qs": "^6.9.1",
+    "qs": "^6.9.7",
     "react": "16.9.0",
     "react-native": "0.61.4",
     "react-native-collapsible": "^1.5.1",
